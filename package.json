@@ -9,6 +9,12 @@
     "start": "next start"
   },
   "dependencies": {
+    "@radix-ui/react-checkbox": "latest",
+    "@radix-ui/react-label": "latest",
+    "@radix-ui/react-radio-group": "latest",
+    "@radix-ui/react-slot": "latest",
+    "@radix-ui/react-tabs": "latest",
+    "@vercel/analytics": "latest",
     "better-sqlite3": "latest",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
@@ -17,11 +23,13 @@
     "jspdf": "latest",
     "lucide-react": "^0.454.0",
     "next": "^15.0.0",
+    "next-themes": "latest",
     "path": "latest",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "tailwind-merge": "^2.5.5",
-    "tailwindcss-animate": "^1.0.7"
+    "tailwindcss-animate": "^1.0.7",
+    "tw-animate-css": "latest"
   },
   "devDependencies": {
     "@types/better-sqlite3": "^7.6.8",
