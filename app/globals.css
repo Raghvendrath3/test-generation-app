@@ -75,7 +75,7 @@
 }
 
 @theme inline {
-  /* Use system fonts instead of Geist which is not available */
+  /* Use system fonts instead of unavailable Geist fonts */
   --font-sans: system-ui, -apple-system, sans-serif;
   --font-mono: "Courier New", monospace;
   --color-background: var(--background);
